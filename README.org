@@ -1,0 +1,10 @@
+* lense
+
+Racket style lenses for the Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sirherrbatka/lense.git   |
+| commit  | d932036  |
+| systems | lense |
+|---------+-------------------------------------------|
+
